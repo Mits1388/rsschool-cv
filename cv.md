@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Artsiom
+- 👀 I’m interested in football and board game
+- 🌱 I’m currently learning java and android
+- 💞️ I’m looking to collaborate on IT company
+- 📫 How to reach me mits1388@gmail.com
